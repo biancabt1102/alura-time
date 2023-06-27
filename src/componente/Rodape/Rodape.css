@@ -1,0 +1,26 @@
+.rodape {
+    background-color: #6278F7;
+    display: flex;
+    padding: 80px;
+    align-items: center;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+.redes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.redes img{
+    margin-right: 20px;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.rodape section h5{
+    font-size: 18px;
+    font-weight: 500;
+}
