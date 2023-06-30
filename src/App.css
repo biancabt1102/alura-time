@@ -1,0 +1,14 @@
+.times {
+    position: relative;
+    text-align: center;
+}
+
+.times h1{
+    color: #6278F7;
+    border-bottom: 3px solid #6278F7;
+    display: inline-block;
+    text-align: center;
+    font-weight: 500;
+    font-size: 40px;
+    padding-bottom: 8px;
+}
